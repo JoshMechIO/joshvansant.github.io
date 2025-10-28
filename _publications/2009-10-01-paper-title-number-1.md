@@ -1,7 +1,6 @@
 ---
 title: "The design of a compliant horizontal clutch and braking system for chronographs"
 collection: publications
-category: thesis
 permalink: https://resolver.tudelft.nl/uuid:541e0440-0b79-45f1-97a7-a98760d9bc15
 excerpt: 'A showcase of my master thesis.'
 date: 2024-10-21
