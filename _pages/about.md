@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website showcasing my portolio and CV"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-
-*About Me
 
 I am a researcher and engineering with interests including soft robotics, emboddied intelligence, and compliant mechanisms. Currently, I am conducting research on SMA-actuated soft robotics grippers for space applications at TU Delft's BioMorphic Lab. I am also gaining practical experience by working as a design engineer at ISISpace. 
 
