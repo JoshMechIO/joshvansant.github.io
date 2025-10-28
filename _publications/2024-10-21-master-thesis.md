@@ -3,7 +3,7 @@ title: "The design of a compliant horizontal clutch and braking system for chron
 collection: publications
 category: thesis
 permalink: https://resolver.tudelft.nl/uuid:541e0440-0b79-45f1-97a7-a98760d9bc15
-excerpt: 'A showcase of my master thesis.'
+excerpt: 'As part of my master thesis, I designed, modelled, and evaluated a compliant bi-state switching mechanism in collaboration with Flexous'
 date: 2024-10-21
 venue: 'TU Delft'
 paperurl: 'https://resolver.tudelft.nl/uuid:541e0440-0b79-45f1-97a7-a98760d9bc15'
