@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "The design of a compliant horizontal clutch and braking system for chronographs"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: thesis
+permalink: https://resolver.tudelft.nl/uuid:541e0440-0b79-45f1-97a7-a98760d9bc15
+excerpt: 'A showcase of my master thesis.'
+date: 2024-10-21
+venue: 'TU Delft'
+slidesurl: 'https://resolver.tudelft.nl/uuid:541e0440-0b79-45f1-97a7-a98760d9bc15'
+paperurl: 'https://resolver.tudelft.nl/uuid:541e0440-0b79-45f1-97a7-a98760d9bc15'
+bibtexurl: 'https://resolver.tudelft.nl/uuid:541e0440-0b79-45f1-97a7-a98760d9bc15'
+citation: 'https://resolver.tudelft.nl/uuid:541e0440-0b79-45f1-97a7-a98760d9bc15'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This thesis therefore presents the design, modelling and evaluation of a compliant bi-state switching mechanism designed for fabrication from a silicon wafer and integrated with the horizontal clutch and braking system sub-components of mechanical chronographs. The functional requirements of the chronograph sub-functions include reliable switching between the engaged and braking states, secure gear engagement with minimal misalignment during the engaged state, and precise timekeeping through minimal brake timing delay and slippage of the chronograph seconds hand during the braked state. The design is modelled and validated using both an analytical pseudo-rigid body model and a numerical finite element model. A scaled PETG-based proof-of-concept was then fabricated to verify the performance. (Under embargo until 21-10-2026)
