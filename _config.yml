@@ -233,9 +233,10 @@ collections:
 
 
 # These settings control how pages and collections are included in the site. Commented out to remove the headers
+# Defaults
 defaults:
   # _posts
-   - scope:
+  - scope:
       path: ""
       type: posts
     values:
